@@ -1,0 +1,21 @@
+.Run{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 100px;
+}
+h1{
+    color: red;
+}
+button{
+    margin: 15px;
+    padding: 5px 25px;
+    border: 1px solid rgb(141, 238, 130);
+    background-color: rgb(235, 154, 47);
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: rgb(255, 127, 227);
+}
